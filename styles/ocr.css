@@ -1,4 +1,4 @@
-hbody {
+body {
     font-family: sans-serif;
 }
 .container {
@@ -16,7 +16,7 @@ hbody {
     
 }
 .bottom{
-    padding: 0px 40%;
+    padding: 0px 20%;
     margin-top: 30 px;
     display: flex;
     
